@@ -6,7 +6,7 @@ connection = psycopg2.connect(
     host="localhost",
     database="healthcare_db",
     user="postgres",
-    password="your_password"  # Replace with your actual password
+    password="Kl:14131"  # Replace with your actual password
 )
 cursor = connection.cursor()
 
